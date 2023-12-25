@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/09/27 11:02:25.576,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/27 11:03:13.280,C:\Users\Joao\Desktop\clinica\UnitPrincipale.pas=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/27 11:03:13.280,C:\Users\Joao\Desktop\clinica\UnitPrincipale.dfm=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/27 11:03:26.691,C:\Users\Joao\Desktop\clinica\Clinica.dproj=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/09/27 11:49:23.656,=C:\Users\Joao\Desktop\clinica\Unit2.pas</Transaction>
+    <Transaction>2023/09/27 11:50:30.916,C:\Users\Joao\Desktop\clinica\UnitRegistro.dfm=C:\Users\Joao\Desktop\clinica\Unit2.dfm</Transaction>
+    <Transaction>2023/09/27 11:50:30.916,C:\Users\Joao\Desktop\clinica\UnitRegistro.pas=C:\Users\Joao\Desktop\clinica\Unit2.pas</Transaction>
+    <Transaction>2023/09/27 11:51:00.154,=C:\Users\Joao\Desktop\clinica\Unit3.pas</Transaction>
+    <Transaction>2023/09/27 11:51:37.026,C:\Users\Joao\Desktop\clinica\UnitRegistroPrenotazione.pas=C:\Users\Joao\Desktop\clinica\Unit3.pas</Transaction>
+    <Transaction>2023/09/27 11:51:37.027,C:\Users\Joao\Desktop\clinica\UnitRegistroPrenotazione.dfm=C:\Users\Joao\Desktop\clinica\Unit3.dfm</Transaction>
+    <Transaction>2023/09/27 12:17:00.611,=C:\Users\Joao\Desktop\clinica\Unit1.pas</Transaction>
+    <Transaction>2023/09/27 12:25:43.550,C:\Users\Joao\Desktop\clinica\UnitDM.dfm=C:\Users\Joao\Desktop\clinica\Unit1.dfm</Transaction>
+    <Transaction>2023/09/27 12:25:43.550,C:\Users\Joao\Desktop\clinica\UnitDM.pas=C:\Users\Joao\Desktop\clinica\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
